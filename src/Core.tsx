@@ -12,7 +12,7 @@ function App() {
   return (
     <div>
         <img src="/logo.png" alt="Horizon Logo" width={100} height={100} />
-        <h1>Horizon</h1>
+        <h1>A</h1>
     </div>
   );
 }
